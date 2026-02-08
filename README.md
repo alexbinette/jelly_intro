@@ -2,9 +2,12 @@
 > **Mise en situation** 
 > 
 > "*Oh as-tu vu Heated Rivalry? C'est sur Crave!*"
+> 
 > "*Oh as-tu vu Severance? C'est sur Apple TV!*"
 > "*QUOI t'as pas vu Better Call Saul? Voyons, c'est sur Netflix!*"
+> 
 > "*Regarde ça, c'est sur Fubu!*"
+> 
 > "*Regarde ça, c'est sur Poopi!*"
 > ASSEZ!! 
 
