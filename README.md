@@ -47,7 +47,7 @@ Y'en a plein d'autres à ajouter, je fais juste attendre vos demandes spéciales
 
 J'ajoute aussi un par un les films nominés aux Oscars au fur et à mesure qu'ils sortent (Vous en faites pas, *Marty Supreme* arrive)
 
-# Chromecast / Google Cast
+## Chromecast / Google Cast
 
 Pour utiliser un Chromecast/Google Cast, je vous recommande **fortement** d'utiliser Google Chrome, qui semble être la seule manière de le faire fonctionner sans problème. C'est encore une fonctionnalité que je n'ai que peu testé, donc hésitez pas à me contacter directement si vous avez des soucis. 
 
