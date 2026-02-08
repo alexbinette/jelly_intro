@@ -61,3 +61,20 @@ Pour utiliser un Chromecast/Google Cast, je vous recommande **fortement** d'util
 - [x] Google Cast (expérimental)
 - [ ] Ajout de IPTV
 - [ ] Ajout de sports en PPV
+
+
+## FAQ
+
+> Pour Evelyne, surtout
+
+C'est quoi l'intérêt?
+: Si t'es cheap (🙋‍♂️), ça peut vous éviter de payer pour un service!
+
+Tout le monde a son propre compte?
+: Oui! Comme ça tu peux recommencer ta lecture où tu étais rendue, et avoir des suggestions juste pour toi
+
+Comment toi tu fais?
+: J'utilise des torrents public donc j'ai pas vraiment de secret, mais c'est SÛR que ça va me faire plaisir de fouiller pour même tes envies les plus nichées
+
+
+
