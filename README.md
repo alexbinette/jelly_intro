@@ -43,6 +43,19 @@ Plusieurs séries qui sont en cours auront leur épisodes ajoutés automatiqueme
  - Primal
  - Euphoria
 
+
+en plus de (à cause de vous 🤭) :
+
+
+ - Bridgerton
+ - Dark Matter
+ - From
+ - Shrinking
+ - Silo
+ - Slow Horses
+ - Smiling Friends
+ - The Studio
+
 Y'en a plein d'autres à ajouter, je fais juste attendre vos demandes spéciales 😤
 
 J'ajoute aussi un par un les films nominés aux Oscars au fur et à mesure qu'ils sortent (Vous en faites pas, *Marty Supreme* arrive)
