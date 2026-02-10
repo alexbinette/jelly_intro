@@ -2,13 +2,13 @@
 
 
 ## **Référence rapide **
-[###**Accéder à Jelly**](https://wfflstmp.ddns.net/jelly/)
+[### **Accéder à Jelly**](https://wfflstmp.ddns.net/jelly/)
 
-[###**Projet Jellyfin**](https://jellyfin.org/)
+[### **Projet Jellyfin**](https://jellyfin.org/)
 
-[###*Application Apple*](https://apps.apple.com/ca/app/jellyfin-mobile/id1480192618)
+[### *Application Apple*](https://apps.apple.com/ca/app/jellyfin-mobile/id1480192618)
 
-[###*Application Android*](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&pli=1)
+[### *Application Android*](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&pli=1)
 
 
 > **Mise en situation** 
