@@ -1,7 +1,8 @@
 # Présentation de Jelly
 
 
-## **Référence rapide **
+## **Référence rapide**
+
 ### [**Accéder à Jelly**](https://wfflstmp.ddns.net/jelly/)
 
 ### [**Projet Jellyfin**](https://jellyfin.org/)
